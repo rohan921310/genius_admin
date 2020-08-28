@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://SclMng.epizy.com/genius_admin/';
+$config['base_url'] = 'https://rohan921310.github.io/genius_admin/';
 
 /*
 |--------------------------------------------------------------------------
